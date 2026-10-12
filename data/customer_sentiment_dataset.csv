@@ -1,0 +1,31 @@
+id,text,label,source
+T001,The delivery arrived earlier than promised and the driver was very polite.,positive,customer_review
+T002,The app was easy to use and the checkout process was fast.,positive,customer_review
+T003,My order was complete and the products were in perfect condition.,positive,customer_review
+T004,Customer support solved my issue quickly and clearly.,positive,support_ticket
+T005,The tracking updates were accurate and helpful.,positive,customer_review
+T006,I liked the discounts and the delivery window was respected.,positive,customer_review
+T007,The replacement process was simple and the agent was helpful.,positive,support_ticket
+T008,The website recommended products that were useful for my purchase.,positive,customer_review
+T009,The package arrived safely and everything matched the description.,positive,customer_review
+T010,The store pickup experience was quick and well organized.,positive,customer_review
+T011,The service was reliable and the order status was clear.,positive,customer_review
+T012,I received a friendly response and the problem was fixed.,positive,support_ticket
+T013,The product quality was better than expected.,positive,customer_review
+T014,The delivery notifications helped me plan my day.,positive,customer_review
+T015,The refund was processed fast and without complications.,positive,support_ticket
+T016,The item arrived late and customer service did not help.,negative,customer_review
+T017,The app crashed several times during checkout.,negative,customer_review
+T018,My order was missing products and nobody explained why.,negative,customer_review
+T019,The delivery window was missed and the tracking information was wrong.,negative,customer_review
+T020,The support agent gave confusing instructions.,negative,support_ticket
+T021,The package was damaged and the return process was slow.,negative,customer_review
+T022,The website showed inventory available but the product was out of stock.,negative,customer_review
+T023,The driver could not find the address and the order was cancelled.,negative,customer_review
+T024,I waited too long for a response from customer support.,negative,support_ticket
+T025,The recommendation system suggested irrelevant items.,negative,customer_review
+T026,The pickup location was disorganized and staff could not find the order.,negative,customer_review
+T027,The refund took too long and I had to contact support twice.,negative,support_ticket
+T028,The product description was misleading and the item did not meet expectations.,negative,customer_review
+T029,The checkout failed and I lost the promotion.,negative,customer_review
+T030,The delivery fee changed unexpectedly at the last step.,negative,customer_review

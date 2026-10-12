@@ -1,0 +1,4 @@
+modelo,tarea,tamano_estimado,licencia,dataset_base,accuracy,precision_macro,recall_macro,f1_macro,latencia_promedio,interpretacion
+distilbert/distilbert-base-uncased-finetuned-sst-2-english,Sentiment analysis,~67M,Apache-2.0,SST-2 binary sentiment,0.933,0.938,0.933,0.933,32 ms,Fastest baseline; strong choice for MVP.
+textattack/bert-base-uncased-SST-2,Text classification,~110M,Review model card,SST-2 binary sentiment,0.967,0.969,0.967,0.967,56 ms,"Best precision in reference run, but slower."
+cardiffnlp/twitter-roberta-base-sentiment-latest,Text classification,~125M,CC-BY-4.0,Social media sentiment,0.900,0.914,0.900,0.899,48 ms,Useful for informal text; may output neutral on ambiguous cases.
